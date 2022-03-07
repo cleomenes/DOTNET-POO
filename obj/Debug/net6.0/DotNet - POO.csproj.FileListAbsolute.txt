@@ -1,0 +1,15 @@
+C:\Users\Cleomenes Junior\Documents\Programação\C# e DotNet\DotNet - POO\bin\Debug\net6.0\DotNet - POO.exe
+C:\Users\Cleomenes Junior\Documents\Programação\C# e DotNet\DotNet - POO\bin\Debug\net6.0\DotNet - POO.deps.json
+C:\Users\Cleomenes Junior\Documents\Programação\C# e DotNet\DotNet - POO\bin\Debug\net6.0\DotNet - POO.runtimeconfig.json
+C:\Users\Cleomenes Junior\Documents\Programação\C# e DotNet\DotNet - POO\bin\Debug\net6.0\DotNet - POO.dll
+C:\Users\Cleomenes Junior\Documents\Programação\C# e DotNet\DotNet - POO\bin\Debug\net6.0\ref\DotNet - POO.dll
+C:\Users\Cleomenes Junior\Documents\Programação\C# e DotNet\DotNet - POO\bin\Debug\net6.0\DotNet - POO.pdb
+C:\Users\Cleomenes Junior\Documents\Programação\C# e DotNet\DotNet - POO\obj\Debug\net6.0\DotNet - POO.csproj.AssemblyReference.cache
+C:\Users\Cleomenes Junior\Documents\Programação\C# e DotNet\DotNet - POO\obj\Debug\net6.0\DotNet - POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cleomenes Junior\Documents\Programação\C# e DotNet\DotNet - POO\obj\Debug\net6.0\DotNet - POO.AssemblyInfoInputs.cache
+C:\Users\Cleomenes Junior\Documents\Programação\C# e DotNet\DotNet - POO\obj\Debug\net6.0\DotNet - POO.AssemblyInfo.cs
+C:\Users\Cleomenes Junior\Documents\Programação\C# e DotNet\DotNet - POO\obj\Debug\net6.0\DotNet - POO.csproj.CoreCompileInputs.cache
+C:\Users\Cleomenes Junior\Documents\Programação\C# e DotNet\DotNet - POO\obj\Debug\net6.0\DotNet - POO.dll
+C:\Users\Cleomenes Junior\Documents\Programação\C# e DotNet\DotNet - POO\obj\Debug\net6.0\ref\DotNet - POO.dll
+C:\Users\Cleomenes Junior\Documents\Programação\C# e DotNet\DotNet - POO\obj\Debug\net6.0\DotNet - POO.pdb
+C:\Users\Cleomenes Junior\Documents\Programação\C# e DotNet\DotNet - POO\obj\Debug\net6.0\DotNet - POO.genruntimeconfig.cache
