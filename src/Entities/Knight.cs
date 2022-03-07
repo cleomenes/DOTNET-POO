@@ -5,17 +5,18 @@ using System.Threading.Tasks;
 
 namespace DotNet___POO.src.Entities
 {
-    public class Aros
+    public class Knight : Hero
     {
-        public string Name { get; set; }
-        public int Level;
-        public en_tipoHero TipoHero;
-
-        public Arus(string _name, int _level, en_tipoHero _tipoHero)
+        public Knight(string _name, int _level, en_tipoHero _tipoHero)
         {
             Name = _name;
             Level = _level;
             TipoHero = _tipoHero;
+        }
+
+        public override string Attack()
+        {
+            return this.Name + " Atacou com sua espada"; 
         }
     }
 }
